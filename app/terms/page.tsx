@@ -235,7 +235,7 @@ export default function TermsPage() {
                     </Link>
                   </li>
                   <li>
-                    <Link href="#" className="text-[#B0FF00] hover:underline">
+                    <Link href="https://www.apple.com/legal/internet-services/itunes/dev/stdeula/" target="_blank" rel="noopener noreferrer" className="text-[#B0FF00] hover:underline">
                       Apple Licensed Application End User License Agreement (EULA)
                     </Link>
                   </li>
@@ -246,8 +246,8 @@ export default function TermsPage() {
                 <h2 className="text-2xl sm:text-3xl font-bold mb-4 text-white uppercase">17. CONTACT INFORMATION</h2>
                 <p className="mb-6">
                   For questions about these Terms, please contact us at:{' '}
-                  <a href="mailto:support@rewire.fit" className="text-[#B0FF00] hover:underline">
-                    support@rewire.fit
+                  <a href="mailto:rewireappsupport@gmail.com" className="text-[#B0FF00] hover:underline">
+                    rewireappsupport@gmail.com
                   </a>.
                 </p>
               </div>

@@ -46,8 +46,8 @@ export default function ContactPage() {
               <div className="flex flex-col items-center">
                 <span className="text-2xl mb-1.5 leading-none select-none">📧</span>
                 <h4 className="text-white font-bold text-sm mb-0.5">Direct Email</h4>
-                <a href="mailto:support@rewire.fit" className="text-[#B0FF00] text-xs sm:text-sm font-bold hover:underline">
-                  support@rewire.fit
+                <a href="mailto:rewireappsupport@gmail.com" className="text-[#B0FF00] text-xs sm:text-sm font-bold hover:underline">
+                  rewireappsupport@gmail.com
                 </a>
               </div>
 
